@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Config LBB Files", "Config LBB Files.vcproj", "{93102AC3-5FF6-46BD-ACB9-36880D40EA5E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{93102AC3-5FF6-46BD-ACB9-36880D40EA5E}.Debug.ActiveCfg = Debug|Win32
+		{93102AC3-5FF6-46BD-ACB9-36880D40EA5E}.Debug.Build.0 = Debug|Win32
+		{93102AC3-5FF6-46BD-ACB9-36880D40EA5E}.Release.ActiveCfg = Release|Win32
+		{93102AC3-5FF6-46BD-ACB9-36880D40EA5E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

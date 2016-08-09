@@ -1,0 +1,51 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Screen - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Debug/Screen.res" /d "_DEBUG" "C:\Andreas\Programmering\Projekt arbetet\Utveckling\Screen\Screen.rc"" 
+Creating temporary file "C:\WIN95\TEMP\RSP53B0.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Screen.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Andreas\Programmering\Projekt arbetet\Utveckling\Screen\Screen.cpp"
+"C:\Andreas\Programmering\Projekt arbetet\Utveckling\Screen\String.cpp"
+"C:\Andreas\Programmering\Projekt arbetet\Utveckling\Screen\Object.cpp"
+]
+Creating command line "cl.exe @C:\WIN95\TEMP\RSP53B0.TMP" 
+Creating temporary file "C:\WIN95\TEMP\RSP53B1.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Screen.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Andreas\Programmering\Projekt arbetet\Utveckling\Screen\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\WIN95\TEMP\RSP53B1.TMP" 
+Creating temporary file "C:\WIN95\TEMP\RSP53B2.TMP" with contents
+[
+strmiids.lib quartz.lib winmm.lib msacm32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Screen.pdb" /debug /machine:I386 /out:"Debug/Screen.exe" /pdbtype:sept 
+".\Debug\Screen.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Screen.res"
+".\Debug\String.obj"
+".\Debug\Object.obj"
+]
+Creating command line "link.exe @C:\WIN95\TEMP\RSP53B2.TMP"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Skipping... (no relevant changes detected)
+Screen.cpp
+String.cpp
+Object.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Screen.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

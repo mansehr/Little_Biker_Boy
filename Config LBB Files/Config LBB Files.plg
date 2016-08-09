@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Config LBB Files - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD0.tmp" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Release/Config LBB Files.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"D:\Hacking\Projekt arbetet April\NET\Config LBB Files\Config LBB Files.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD0.tmp" 
+Creating temporary file "C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD1.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/Config LBB Files.pdb" /machine:I386 /out:"Release/Config LBB Files.exe" 
+".\Release\Config LBB Files.obj"
+".\Release\Price.obj"
+".\Release\StdAfx.obj"
+".\Release\String.obj"
+".\Release\Config LBB Files.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD1.tmp"
+<h3>Output Window</h3>
+Compiling...
+Config LBB Files.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Config LBB Files.exe - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: Config LBB Files - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD3.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Config LBB Files.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Hacking\Projekt arbetet April\NET\Config LBB Files\Config LBB Files.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD3.tmp" 
+Creating temporary file "C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD4.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Config LBB Files.pdb" /debug /machine:I386 /out:"Debug/Config LBB Files.exe" /pdbtype:sept 
+".\Debug\Config LBB Files.obj"
+".\Debug\Price.obj"
+".\Debug\StdAfx.obj"
+".\Debug\String.obj"
+".\Debug\Config LBB Files.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSPD4.tmp"
+<h3>Output Window</h3>
+Compiling...
+Config LBB Files.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Config LBB Files.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
