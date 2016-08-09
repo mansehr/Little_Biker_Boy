@@ -1,3 +1,4 @@
 # Ignore visual studio build folders
-Release/*
-Debug/*
+Release
+Debug
+Backup
