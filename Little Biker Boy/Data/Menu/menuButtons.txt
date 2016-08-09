@@ -1,0 +1,120 @@
+
+//This file contains the information about the buttons in the menu
+//1024 * 768 upplösning
+[newGameX]390[/]	//X
+[newGameY]315[/]	//Y
+[newGameW]325[/]	//Width
+[newGameH]35[/]		//Height
+
+[loadGameX]370[/]
+[loadGameY]380[/]
+[loadGameW]365[/]
+[loadGameH]35[/]
+
+[loadX]670[/]
+[loadY]630[/]
+[loadW]181[/]
+[loadH]35[/]
+
+[saveGameX]370[/]
+[saveGameY]445[/]
+[saveGameW]365[/]
+[saveGameH]35[/]
+
+[saveX]670[/]
+[saveY]630[/]
+[saveW]181[/]
+[saveH]35[/]
+
+[optionsX]415[/]
+[optionsY]503[/]
+[optionsW]276[/]
+[optionsH]33[/]
+
+[creditsX]415[/]
+[creditsY]562[/]
+[creditsW]276[/]
+[creditsH]31[/]
+
+[exitGameX]480[/]
+[exitGameY]625[/]
+[exitGameW]145[/]
+[exitGameH]31[/]
+
+[backX]130[/]
+[backY]630[/]
+[backW]155[/]
+[backH]34[/]
+
+[startX]640[/]
+[startY]630[/]
+[startW]247[/]
+[startH]46[/]
+
+[enterNameX]330[/]
+[enterNameY]400[/]
+[enterNameW]145[/]
+[enterNameH]31[/]
+
+[newGameSpriteX]100[/]
+[newGameSpriteY]300[/]
+[newGameSpriteW]145[/]
+[newGameSpriteH]31[/]
+
+[subMenuX]130[/]
+[subMenuY]292[/]
+
+
+[slot1X]180[/]
+[slot1Y]400[/]
+[slot1W]130[/]
+[slot1H]35[/]
+
+[slot2X]180[/]
+[slot2Y]450[/]
+[slot2W]130[/]
+[slot2H]35[/]
+
+[menuDaysTextX]700[/]
+[menuDaysTextY]300[/]
+[menuDaysTextW]100[/]
+[menuDaysTextH]35[/]
+
+[menuMoneyTextX]700[/]
+[menuMoneyTextY]350[/]
+[menuMoneyTextW]100[/]
+[menuMoneyTextH]35[/]
+
+[menuJobsTextX]700[/]
+[menuJobsTextY]400[/]
+[menuJobsTextW]100[/]
+[menuJobsTextH]35[/]
+
+[menuFitnessTextX]700[/]
+[menuFitnessTextY]450[/]
+[menuFitnessTextW]100[/]
+[menuFitnessTextH]35[/]
+
+[easyX]415[/]
+[easyY]400[/]
+[easyW]247[/]
+[easyH]46[/]
+
+[mediumX]415[/]
+[mediumY]450[/]
+[mediumW]300[/]
+[mediumH]48[/]
+
+[hardX]415[/]
+[hardY]500[/]
+[hardW]247[/]
+[hardH]46[/]
+
+
+//1280 * 1024 upplösningen....
+//470, 415	325*35 	(newgame)
+//450, 480	365*35	(loadgame)
+//450, 545	365*35	(savegame)
+//495, 603	276*33	(options)
+//495, 662	276*31	(credits)
+//560, 725	145*31	(exit)

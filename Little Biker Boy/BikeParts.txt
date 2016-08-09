@@ -1,0 +1,33 @@
+            
+            
+            /* Class: BikePart
+            	*/
+            #define MAX_PARTS 7
+            
+            enum ??? {alivio, deore, lx, xt, xtr};
+            char* ???[] {"alivio", "deore", "lx", "xt", "xtr"};
+            
+            /* Class: CBikePart */
+            class CBikePart {
+            public:
+            	CBikePart();
+            	~CBikePart();
+            	
+            private:
+            	int nWeight;
+            	int nPrice;
+            	int nType;
+            	int ???; //Hållbarhet
+            	bool nBroken;		
+            };
+            
+            /*Class: CBike*/
+            class CBike
+            {
+            public:
+            	CBike();
+            	~CBike();
+            	
+            private:
+            	CBikePart bikePart[MAX_PARTS];
+            };

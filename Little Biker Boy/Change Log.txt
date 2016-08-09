@@ -1,0 +1,6 @@
+
+2007-03-08 Andreas Sehr
+Återupptog programmeringen av LBB projektet. Har ett stort arbete framför mig att 
+gå igenom koden och leta buggar. Jag började med att dela upp object-filen i mindre
+delar då den tidigare innehöll 5-6 klasser(infosquare, clock, diagram, statusobjcet, mfl)
+för att lättare kunna genomsöka koden efter fel. 

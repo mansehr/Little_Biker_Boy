@@ -1,0 +1,3 @@
+# Ignore visual studio build folders
+Release
+Debug

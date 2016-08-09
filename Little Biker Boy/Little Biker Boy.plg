@@ -1,0 +1,48 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Little Biker Boy - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSP421.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/Little Biker Boy.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Hacking\Projekt arbetet April\Little Biker Boy\TheGame.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSP421.tmp" 
+Creating temporary file "C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSP422.tmp" with contents
+[
+strmiids.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Little Biker Boy.pdb" /debug /machine:I386 /out:"..\LBB\Little Biker Boy.exe" /pdbtype:sept 
+".\Debug\Bitmap.obj"
+".\Debug\Filhant.obj"
+".\Debug\List.obj"
+".\Debug\MainMenu.obj"
+".\Debug\MenuButton.obj"
+".\Debug\Object.obj"
+".\Debug\Price.obj"
+".\Debug\Room.obj"
+".\Debug\Sound.obj"
+".\Debug\Sprite.obj"
+".\Debug\Square.obj"
+".\Debug\StdAfx.obj"
+".\Debug\String.obj"
+".\Debug\TheGame.obj"
+".\Debug\WinMain.obj"
+".\Debug\Work.obj"
+".\Debug\Resource.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\Andreas\LOKALA~1\Temp\RSP422.tmp"
+<h3>Output Window</h3>
+Compiling...
+TheGame.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Little Biker Boy.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
